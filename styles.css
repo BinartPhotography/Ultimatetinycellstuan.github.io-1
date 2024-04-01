@@ -17,7 +17,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  width: 85%;
+  width: 92%;
   padding: 20px 100px 20px 50px; /* adjust the left padding to 50px */
   display: flex;
   justify-content: space-between;
