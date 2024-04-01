@@ -28,9 +28,9 @@ body {
     width: 100%;
     position:absolute;
     top: 30%;
-    transform: translateY(-50%);
+    transform: translateY(-10%);
     text-align: center;
-    color: #fff;
+    color:red;
 }
 .content h1{
     font-size: 70px;
@@ -81,14 +81,14 @@ button{
     font-weight: bold;
     border:2px solid #009688;
     background: transparent;
-    color:#fff;
+    color:#2cd6c8;
     cursor:pointer;
     position: relative;
     overflow: hidden;
     
 }
 span{
-    background: #3eff37;
+    background: #21aedc;
     height:100%;
     width:0;
     position: absolute;
